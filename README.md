@@ -37,9 +37,7 @@ Passionate about building, deploying, and automating systems with modern tools &
 ---
 
 ## 🚀 Featured Repositories
-🔹 [vaseem-devops](https://github.com/vaseem-06/vaseem-devops) – My DevOps practice repo  
-🔹 [hiring-app](https://github.com/vaseem-06/hiring-app) – Full-stack app project  
-🔹 [Jenkins]((https://github.com/vaseem-06/Jenkins.git)– Experimenting with code & ideas  
+🔹 [vaseem-devops](https://github.com/vaseem-06/vaseem-devops) – My DevOps practice repo   
 
 ---
 
