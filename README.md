@@ -39,13 +39,5 @@ Passionate about building, deploying, and automating systems with modern tools &
 ## 🚀 Featured Repositories
 🔹 [vaseem-devops](https://github.com/vaseem-06/vaseem-devops) – My DevOps practice repo   
 
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaseem-06&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaseem-06&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=vaseem-06&theme=radical)
-
----
 
 ⭐️ From [Mohammed Waseem](https://github.com/vaseem-06)
